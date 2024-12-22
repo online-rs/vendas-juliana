@@ -1,0 +1,20 @@
+/* Affiliate.css */
+
+.affiliate-container {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .affiliate-container h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 2rem;
+  }
+  
+  .affiliate-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+  
